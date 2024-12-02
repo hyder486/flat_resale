@@ -10,7 +10,7 @@ The project will involve the following tasks:
 #3. Model Selection and Training: Choose an appropriate machine learning model for regression (e.g., linear regression, decision trees, or random forests). Train the model on the historical data, using a portion of the dataset for training.
 #4. Model Evaluation: Evaluate the model's predictive performance using regression metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or Root Mean Squared Error (RMSE) and R2 Score.
 
-#Technology Stack
+# Technology Stack
 
 Python
 Mongo DB
